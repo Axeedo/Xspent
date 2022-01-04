@@ -1,0 +1,22 @@
+dist
+node_modules
+
+# mac files
+.DS_Store
+
+# vim swap files
+*.swp
+
+# webstorm
+.idea
+
+# vscode
+.vscode
+*code-workspace
+
+# lock files
+yarn.lock
+package-lock.json
+
+# Coverage
+coverage
